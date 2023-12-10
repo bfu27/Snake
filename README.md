@@ -2,6 +2,8 @@ PHYTON START
 
 In order to understand the syntax of this language better I decided to try out some simple stuff. Due to the high demand and popularity of this language, the files include more than just exercises or syntax try-outs, they should also include explanations at times. The w3school tutorial is simple enough most of the time so explanation are only present where w3 fails to fully mention everything.
 
+LINK TO THE W3 TUTORIAL: https://www.w3schools.com/python/default.asp
+
 This repo is dedicated for anyone (very dear to me) that wants to learn Python. I hope these documents can serve as a helping hand!
 
 Below you can find descriptions of each document currently present in the repo. I will update the README as I go.
